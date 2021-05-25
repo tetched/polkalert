@@ -1,6 +1,6 @@
-# Polkalert
+# Tetalert
 
-Polkalert is an application that runs locally with validator's Substrate node and provides monitoring and alerting when relevant events happen. Alerts can be sent via email or webhooks. Polkalert also provides a convenient GUI for staking info and settings.
+Tetalert is an application that runs locally with validator's Substrate node and provides monitoring and alerting when relevant events happen. Alerts can be sent via email or webhooks. Polkalert also provides a convenient GUI for staking info and settings.
 
 Polkalert is able to send you notifications about:
 
